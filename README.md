@@ -19,18 +19,15 @@ TP4056 Module<br>
   <img src="https://github.com/AmmarW/IntruderDetection/blob/main/extras/Assembled2.jpg" height = "300" width="500" /> 
 </p>
 
-ESP8266 WiFi Manager Configuration:<br>
+ESP8266 WiFiManager and Blynk:<br>
 
 <p float="left">
-  <img src="https://github.com/AmmarW/IntruderDetection/blob/main/extras/WiFiManager%20main.jpg" width="400" />
-  <img src="https://github.com/AmmarW/IntruderDetection/blob/main/extras/WiFiManager%20main.jpg" width="400" /> 
+  <img src="https://github.com/AmmarW/IntruderDetection/blob/main/extras/WiFiManager%20main.jpg" width="300" />
+  <img src="https://github.com/AmmarW/IntruderDetection/blob/main/extras/WiFiManager%20Setup.jpg" width="300" /> 
+  <img src="https://github.com/AmmarW/IntruderDetection/blob/main/extras/blynk.jpg" width="300" />
 </p>
 
-Blynk App:<br>
 
-<p float="left">
-  <img src="https://github.com/AmmarW/IntruderDetection/blob/main/extras/blynk.jpg" width="400" />
-</p>
 
 Other Images<br>
 ![](https://github.com/AmmarW/IntruderDetection/blob/main/extras/front%20view.jpg)
