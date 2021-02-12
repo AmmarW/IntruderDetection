@@ -14,22 +14,17 @@ MT3608 DC-DC Buck Converter<br>
 TP4056 Module<br>
 
 
-<p float="left">
-  <img src="https://github.com/AmmarW/IntruderDetection/blob/main/extras/Assembled.jpg" height = "300" width="400" />
-  <img src="https://github.com/AmmarW/IntruderDetection/blob/main/extras/Assembled2.jpg" height = "300" width="500" /> 
-</p>
-
 ESP8266 WiFiManager and Blynk:<br>
 
 <p float="left">
-  <img src="https://github.com/AmmarW/IntruderDetection/blob/main/extras/WiFiManager%20main.jpg" width="300" />
-  <img src="https://github.com/AmmarW/IntruderDetection/blob/main/extras/WiFiManager%20Setup.jpg" width="300" /> 
-  <img src="https://github.com/AmmarW/IntruderDetection/blob/main/extras/blynk.jpg" width="300" />
+  <img src="https://github.com/AmmarW/IntruderDetection/blob/main/extras/WiFiManager%20main.jpg" width="200" />
+  <img src="https://github.com/AmmarW/IntruderDetection/blob/main/extras/WiFiManager%20Setup.jpg" width="200" /> 
+  <img src="https://github.com/AmmarW/IntruderDetection/blob/main/extras/blynk.jpg" width="200" />
 </p>
 
-
-
-Other Images<br>
+Assembled Project:<br>
+![](https://github.com/AmmarW/IntruderDetection/blob/main/extras/Assembled.jpg)
+![](https://github.com/AmmarW/IntruderDetection/blob/main/extras/Assembled2.jpg)
 ![](https://github.com/AmmarW/IntruderDetection/blob/main/extras/front%20view.jpg)
 ![](https://github.com/AmmarW/IntruderDetection/blob/main/extras/back%20view.jpg)
 ![](https://github.com/AmmarW/IntruderDetection/blob/main/extras/tp4056%20charging.jpg)
