@@ -12,6 +12,27 @@ Nodemcu esp8266 v3 ch340<br>
 Sharp IR Sensor GP2Y0A02YK0F<br>
 MT3608 DC-DC Buck Converter<br>
 TP4056 Module<br>
-  
-![alt text](https://github.com/AmmarW/IntruderDetection/blob/main/back%20view.jpg)
-![alt text](https://github.com/AmmarW/IntruderDetection/blob/main/front%20view.jpg)
+
+
+<p float="left">
+  <img src="https://github.com/AmmarW/IntruderDetection/blob/main/extras/Assembled.jpg" height = "300" width="400" />
+  <img src="https://github.com/AmmarW/IntruderDetection/blob/main/extras/Assembled2.jpg" height = "300" width="500" /> 
+</p>
+
+ESP8266 WiFi Manager Configuration:<br>
+
+<p float="left">
+  <img src="https://github.com/AmmarW/IntruderDetection/blob/main/extras/WiFiManager%20main.jpg" width="400" />
+  <img src="https://github.com/AmmarW/IntruderDetection/blob/main/extras/WiFiManager%20main.jpg" width="400" /> 
+</p>
+
+Blynk App:<br>
+
+<p float="left">
+  <img src="https://github.com/AmmarW/IntruderDetection/blob/main/extras/blynk.jpg" width="400" />
+</p>
+
+Other Images<br>
+![](https://github.com/AmmarW/IntruderDetection/blob/main/extras/front%20view.jpg)
+![](https://github.com/AmmarW/IntruderDetection/blob/main/extras/back%20view.jpg)
+![](https://github.com/AmmarW/IntruderDetection/blob/main/extras/tp4056%20charging.jpg)
